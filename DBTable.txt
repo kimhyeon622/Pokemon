@@ -1,0 +1,37 @@
+CREATE TABLE poketmon(
+    name NVARCHAR2(10),
+    hp NUMBER, 
+    skill NVARCHAR2(10),
+    attack NUMBER
+   
+);
+
+INSERT INTO poketmon VALUES('파이리', 30, '불꽃세례', 7);
+INSERT INTO poketmon VALUES('꼬부기', 30, '물대포', 6);
+INSERT INTO poketmon VALUES('이상해씨', 30, '풀베기', 8);
+INSERT INTO poketmon VALUES('불꽃숭이', 30, '불꽃세례', 7);
+INSERT INTO poketmon VALUES('팽도리', 30, '물대포', 6);
+INSERT INTO poketmon VALUES('모부기', 30, '풀베기', 8);
+INSERT INTO poketmon VALUES('브케인', 30, '불꽃세례', 7);
+INSERT INTO poketmon VALUES('리아코', 30, '물대포', 6);
+INSERT INTO poketmon VALUES('치코리타', 30, '풀베기', 8);
+INSERT INTO poketmon VALUES('아차모', 30, '불꽃세례', 7);
+INSERT INTO poketmon VALUES('물짱이', 30, '물대포', 6);
+INSERT INTO poketmon VALUES('나무지기', 30, '풀베기', 8);
+INSERT INTO poketmon VALUES('뚜꾸리', 30, '불꽃세례', 7);
+INSERT INTO poketmon VALUES('수댕이', 30, '물대포', 6);
+INSERT INTO poketmon VALUES('쥬리비안', 30, '맹독', 5);
+
+CREATE TABLE player1(
+    num1 NUMBER,
+    name1 NVARCHAR2(10),
+    hp1 NUMBER, 
+    at1 NUMBER
+);
+
+CREATE TABLE player2(
+    num2 NUMBER,
+    name2 NVARCHAR2(10),
+    hp2 NUMBER, 
+    at2 NUMBER
+);
