@@ -35,5 +35,5 @@ C: 코드 설명작성 및 데이터 수집 <br/>
 # IDE
  - <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 # Back End
- - <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=JAVA&logoColor=white">
+ - <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
  - <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
