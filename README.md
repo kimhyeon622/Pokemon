@@ -35,4 +35,4 @@ C: 코드 설명작성 및 데이터 수집 <br/>
  - `Java 11`
  - `JDK 11`
  - **IDE** : Eclipse IDE
- - **Database** : Oracle DB(11xe)
+ - **Database** : Oracle DB(11g)
