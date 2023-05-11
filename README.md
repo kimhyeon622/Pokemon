@@ -32,6 +32,6 @@ C: 코드 설명작성 및 데이터 수집 <br/>
 
 
 기술 스택
- - <img src="https://img.shields.io/badge/EclipseIDE-#2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
+ - <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
  - <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=JAVA&logoColor=white">
  - 오라클 DB
