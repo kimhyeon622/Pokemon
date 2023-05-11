@@ -31,9 +31,7 @@ C: 코드 설명작성 및 데이터 수집 <br/>
  - 포켓몬 쥬리비안의 스킬인 맹독은 기술 이름처럼 체력비례로 독데미지를 주게 만들었습니다.
 
 
-## 기술 스택
-### IDE
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"></a>
-### Back End
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp;
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+## 개발 환경
+ - 'Java 11'
+ - IDE : Eclipse IDE
+ - Database : Oracle DB(11xe)
